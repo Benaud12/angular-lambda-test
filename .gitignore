@@ -1,4 +1,11 @@
-.terraform/*
+**/.terraform/*
 **/terraform.tfstate*
 
-lambda.zip
+.vscode
+
+**/lambda.zip
+
+**/node_modules/*
+
+# Angular project demo app
+projects/ng-demo/ng-dist/*
